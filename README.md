@@ -1,7 +1,5 @@
 # Alura-Plus
 
-![Preview do Projeto](https://user-images.githubusercontent.com/SeuUserAqui/preview-alura-plus.png)  
-
 ---
 
 ## 🚀 Sobre o projeto
