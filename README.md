@@ -32,3 +32,4 @@ A página é estruturada em seções que destacam os benefícios do Combo+, disp
 - Controle de versão com Git e hospedagem no GitHub  
 
 ---
+https://alura-plus-kohl-eta.vercel.app/ Link de acesso para ver visualmente como ficou o projeto!
